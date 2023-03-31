@@ -1,9 +1,9 @@
-import Navigationbar from './components/navbar/Navigationbar';
+import './App.css'
 
 function App() {
   return (
     <>
-    <Navigationbar/>
+    
     </>
   );
 }
